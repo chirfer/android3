@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="text_name">Имя: Олег</string>
+    <string name="text_name2">Возраст: 23</string>
+    <string name="text_name3">Профиль: Android-разработчик</string>
+    <string name="text_name4">Фото</string>
+    <string name="text_name5">Проекты</string>
+    <string name="text_name6">Достижения</string>
+</resources>
